@@ -67,6 +67,7 @@ int main()
 				file << "\t"
 			         << x
 			         << "\t\t"
+					 << f
 			         << std::endl;
        }
        x += dx;
@@ -109,6 +110,7 @@ int main()
 		        file << "\t"
 			         << x
 			         << "\t\t"
+					 << f
 			         << std::endl;
        }
        x += dx;
