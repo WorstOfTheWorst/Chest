@@ -1,0 +1,25 @@
+Zadaniye 2c
+110
+2
+	1		
+	3		
+	5		
+	7		
+	9		
+Zadaniye 2k
+	1		
+	3		
+	5		
+	7		
+	9		
+Zadaniye 4f
+X !>5,Function does not exist
+y = 0
+Xy = 12
+Zadaniye pro towar
+16*4+21*6
+Zadaniye 3f
+y = -25
+Zadaniye 3j
+
+y = -25
